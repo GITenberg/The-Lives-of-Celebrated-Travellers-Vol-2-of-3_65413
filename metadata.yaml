@@ -1,0 +1,35 @@
+_repo: The-Lives-of-Celebrated-Travellers-Vol-2-of-3_65413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: St. John, James Augustus
+    aliases:
+    - John, J. A. St.
+    - John, James
+    - John, James Augustus St.
+    - Saint John, James Augustus
+    birthdate: 1795
+    deathdate: 1875
+    gutenberg_agent_id: '53328'
+    url: http://www.gutenberg.org/2009/agents/53328
+    wikipedia: https://en.wikipedia.org/wiki/James_Augustus_St._John
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travelers -- Biography'
+- !lcsh 'Adventure and adventurers -- Biography'
+- !lcc 'G'
+- !lcsh 'Explorers -- Biography'
+- GITenberg
+tableOfContents: Joseph Pitton de Tournefort -- Dr. Thomas Shaw -- Frederic Hasselquist
+  -- Lady Wortley Montague -- Richard Pococke -- John Bell -- John Ledyard -- George
+  Forster -- James Bruce -- Jonas Hanway -- Antonio de Ulloa.
+title: The Lives of Celebrated Travellers, Vol. 2 (of 3)
+url: http://www.gutenberg.org/ebooks/65413
